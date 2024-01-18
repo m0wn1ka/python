@@ -8,6 +8,7 @@ print(a)
 
 
 #ref site  https://realpython.com/python-web-scraping-practical-introduction/
+from datetime import date
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import csv
@@ -18,9 +19,11 @@ page=urlopen(url)
 html=page.read().decode('utf-8')
 soup=BeautifulSoup(html,'html.parser')
 news1=soup.find_all("h3",class_="fnt20 article-title-rgt")
-with open("today.txt","w") as f:
-
+with open("today.txt","a") as  f:
+	f.write(str(date.today()))
+	f.write("\n")
 	for i in news1:
+
 		f.write(i.text)
 		print(i.text)
 		f.write("\n")
