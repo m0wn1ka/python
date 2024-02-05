@@ -1,0 +1,5 @@
+nmcli dev wifi connect 62:D8:2C:75:E1:92
+nmcli dev wifi list
+xdg-open .
+sudo mv camera-shutter.oga camera-shutter1.oga
+sudo ifconfig wlan0 up  
