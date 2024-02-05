@@ -19,7 +19,7 @@ page=urlopen(url)
 html=page.read().decode('utf-8')
 soup=BeautifulSoup(html,'html.parser')
 news1=soup.find_all("h3",class_="fnt20 article-title-rgt")
-with open("today.txt","a") as  f:
+with open("/home/radha/Downloads/downloads/python/news_scraping/today.txt","a") as  f:
 	f.write(str(date.today()))
 	f.write("\n")
 	for i in news1:

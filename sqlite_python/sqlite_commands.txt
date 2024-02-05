@@ -1,0 +1,8 @@
+$sqlite3 db1.db
+$sqlite3->
+>.databases
+>.mode csv
+>.import  test_csv.csv table_name
+>select * from table_name
+>.tables
+>.schema table_name
