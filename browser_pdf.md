@@ -29,3 +29,11 @@ window.open("file:///home/radha/Desktop/html_browser.html#id2","_self")
 - on trying to degbugg the issue we see pdfworker.js with som 12000 lines
 - ![image](https://github.com/m0wn1ka/python/assets/127676379/afae134c-3643-4bf4-943e-7ef99cc7fabf)
 
+
+### use scroll into view
+```
+const initial=prompt("give relateive page no of 1(the page no in printed on book is one but page no in the toolbar is differnt")
+const num=prompt("givethe page number u want to go(as mentioned in the index page)")
+elem=document.querySelector(`.page[data-page-number='${num+initial}']`)
+elem.scrollIntoView()
+```
