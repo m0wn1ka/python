@@ -32,8 +32,7 @@ window.open("file:///home/radha/Desktop/html_browser.html#id2","_self")
 
 ### use scroll into view
 ```
-const initial=prompt("give relateive page no of 1(the page no in printed on book is one but page no in the toolbar is differnt")
-const num=prompt("givethe page number u want to go(as mentioned in the index page)")
-elem=document.querySelector(`.page[data-page-number='${num+initial}']`)
-elem.scrollIntoView()
+const initial=parseInt(prompt("give relateive page no of 1(the page no in printed on book is one but page no in the toolbar is differnt"))
+const num=parseInt(prompt("givethe page number u want to go(as mentioned in the index page)"))
+document.querySelector(`.page[data-page-number='${num+initial}']`).scrollIntoView()
 ```
