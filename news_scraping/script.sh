@@ -1,2 +1,3 @@
 #!/bin/sh
-python scrape.py
+python /home/radha/Downloads/downloads/python/news_scraping/scrape.py
+touch file
