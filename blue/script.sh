@@ -24,13 +24,11 @@ stat /etc/hosts > file_stat.txt
 stat /etc/passwd >>file_stat.txt
 stat ~/.bashrc>>file_stat.txt
 echo 'status of vpn is '>>log.txt
-$x=ifconfig|grep 'tun' -c
+x=ifconfig|grep 'tun' -c >>log.txt
 if [[ $x -ne 0 ]]
    then
        echo "a open vpn is found">>log.txt
    else
        echo "no open vpn is found">>log.txt
 fi
-
-
-
+echo 'see resUlts/log file '

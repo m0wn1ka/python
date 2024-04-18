@@ -8,4 +8,5 @@ open ports status is in open_ports.txt
 all connected wifi devices in wifi_log.txt
 status of change of hosts file,password file,env variables in file_stat.txt
 status of vpn is 
+0
 no open vpn is found

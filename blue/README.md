@@ -1,10 +1,8 @@
+https://gist.github.com/m0wn1ka/d8312ab6e4dd2f0e69579ba3e5ff0fb1
 ## main purpose(for linux users)
 - check the security of our system
 - whether there was any unauthoried accesss happended recenly
-- any suggestion to improvements of security
-- tell about the system 
-## srs
-- can be bash script + python script
+## expected output
 - last login of user i.e log of recent user logins
 - log of commands ran as sudo
 - any open ports :nmap

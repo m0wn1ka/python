@@ -1,2 +1,2 @@
-  191  history|grep 'sudo apt install'> recently.txt
-  192  history|grep "dpkg -i" >>recently.txt
+  269  history|grep 'sudo apt install'> recently.txt
+  270  history|grep "dpkg -i" >>recently.txt
