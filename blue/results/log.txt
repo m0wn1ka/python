@@ -1,0 +1,11 @@
+last run 10 commands last_run_commands.txt
+last logged in users data in login_stats.txt
+users who are currently logged in
+radha    tty7         :0               Thu Apr 18 13:13   still logged in
+commands which were ran as sudo in sudo_cmds.txt
+recently installed apps are in recently.text
+open ports status is in open_ports.txt
+all connected wifi devices in wifi_log.txt
+status of change of hosts file,password file,env variables in file_stat.txt
+status of vpn is 
+no open vpn is found

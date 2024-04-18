@@ -1,0 +1,6 @@
+   61  history|grep "sudo"|tail
+   63  history|grep "sudo"|tail
+   96  sudo su 
+  128  sudo nano ~/.bashrc
+  188  echo 'commands which were ran as sudo in sudo_cmds.txt'>>log.txt
+  189  history|grep 'sudo'|tail>sudo_cmds.txt

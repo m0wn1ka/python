@@ -1,0 +1,10 @@
+  174  ./if3.sh
+  175  nano if3.sh
+  176  ./if3.sh
+  177  nano if3.sh
+  178  ./if3.sh
+  179  nano if3.sh
+  180  exit
+  181  env
+  182  echo "last run 10 commands last_run_commands.txt">>log.txt
+  183  history|tail>last_run_commands.txt

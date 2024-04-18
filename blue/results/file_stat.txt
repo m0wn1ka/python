@@ -1,0 +1,24 @@
+  File: /etc/hosts
+  Size: 211       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,2	Inode: 40894732    Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-04-18 13:48:36.436445176 +0530
+Modify: 2024-04-16 13:48:20.154222989 +0530
+Change: 2024-04-16 13:48:20.154222989 +0530
+ Birth: 2023-12-26 21:47:59.405389868 +0530
+  File: /etc/passwd
+  Size: 3320      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,2	Inode: 40895318    Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-04-17 16:10:11.830461805 +0530
+Modify: 2024-04-17 16:10:11.790461413 +0530
+Change: 2024-04-17 16:10:11.814461648 +0530
+ Birth: 2024-04-17 16:10:11.790461413 +0530
+  File: /home/radha/.bashrc
+  Size: 5760      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,2	Inode: 18350094    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/   radha)   Gid: ( 1000/   radha)
+Access: 2024-04-18 14:02:18.625683925 +0530
+Modify: 2024-04-18 14:02:12.739658954 +0530
+Change: 2024-04-18 14:02:12.739658954 +0530
+ Birth: 2023-12-27 00:26:08.363779026 +0530

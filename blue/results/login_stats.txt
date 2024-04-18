@@ -1,0 +1,10 @@
+radha    tty7         :0               Thu Apr 18 13:13   still logged in
+reboot   system boot  6.5.0-kali3-amd6 Thu Apr 18 13:12   still running
+radha    tty7         :0               Thu Apr 18 07:07 - 11:37  (04:29)
+reboot   system boot  6.5.0-kali3-amd6 Thu Apr 18 07:05 - 11:37  (04:31)
+user1    tty8         :1               Wed Apr 17 14:46 - 18:58  (04:12)
+radha    tty7         :0               Wed Apr 17 12:53 - 18:58  (06:04)
+reboot   system boot  6.5.0-kali3-amd6 Wed Apr 17 12:52 - 18:58  (06:06)
+radha    tty7         :0               Wed Apr 17 06:36 - 12:01  (05:24)
+reboot   system boot  6.5.0-kali3-amd6 Wed Apr 17 06:34 - 12:02  (05:27)
+radha    tty7         :0               Tue Apr 16 19:49 - 22:44  (02:54)
