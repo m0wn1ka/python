@@ -1,0 +1,3 @@
+- export chat using export chat option
+- unzip it
+- remove date,time by running this script

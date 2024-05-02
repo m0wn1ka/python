@@ -1,0 +1,25 @@
+Date: 25/4/2024
+Time: 14:15
+Phone Number: +919110565212
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 25/4/2024
+Time: 14:15
+Phone Number: +919110565212
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 25/4/2024
+Time: 14:18
+Phone Number: +919110565212
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 25/4/2024
+Time: 14:20
+Group ID: Groip
+Message: Hey All!
+--------------------
+Date: 25/4/2024
+Time: 14:23
+Phone Number: +919110565212
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
